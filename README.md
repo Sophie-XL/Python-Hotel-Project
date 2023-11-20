@@ -2,6 +2,7 @@
 Data cleaning, transformation and insight generation for a hotel business via Python
 ## Project Background
 Atliq has a hotel business unit that operates 25 hotels in 4 cities of India. With more than 100K+ booking records in 2022, some business insights of occupancy rate and revenue dependency are extracted from the date after data cleaning using Python.
+https://github.com/Sophie-XL/Python-Hotel-Project/blob/3ee781684eafcf0b87d1411d8ccb95aad1b8c5e9/Hotel%20Project.ipynb
 ## Dataset
 There are 3 dimension tables for hotel, guest room and date details and 3 fact tables about actual bookings, aggregated bookings and a some newly generated booking data.
 ## Project:
